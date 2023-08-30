@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "easyPay",
-    "slug": "easyPay",
+    "slug": "easypay",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -41,7 +41,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "ce1497eb-a7cf-4699-a72b-467af73dcd37"
+        "projectId": "30b4d6fb-449c-4c69-a548-665f02ebc095"
       }
     }
   }
